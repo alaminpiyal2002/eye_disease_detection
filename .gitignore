@@ -1,0 +1,25 @@
+ venv/
+ env/
+
+ # Python cache
+ __pycache__/
+ *.pyc
+ *.pyo
+ *.pyd
+
+ # Django specific
+ *.log
+ *.pot
+ *.sqlite3
+ db.sqlite3
+ media/
+ staticfiles/
+
+ # IDE and OS files
+ .DS_Store
+ .idea/
+ *.swp
+ *.swo
+
+ # Model file (optional, include if you want to version it)
+ # student_model.pth
