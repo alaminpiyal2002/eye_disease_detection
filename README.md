@@ -46,7 +46,7 @@ Multiple architectures were trained and evaluated on the same six-class classifi
 
 | Model | Accuracy |
 |---|---:|
-| **ConvNeXt** | **98.27%** |
+| ConvNeXt | 98.27% |
 | EfficientNetV2 | 98.00% |
 | MobileNetV3 | 97.80% |
 | MNASNet | 97.77% |
